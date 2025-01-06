@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirajan!</h1>
-<h3 align="center">I am a Specialist Front-End Developer with a strong focus on creating intuitive, responsive, and visually engaging user interfaces.</h3>
+<h3 align="center">I am an aspiring Front-End Developer with a strong focus on creating intuitive, responsive, and visually engaging user interfaces.</h3>
 
 
 <p align="left">
